@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hp.mvghamarachitoor.vision">
+
+    <Button
+    android:id="@+id/B3"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+
+
+    android:layout_marginTop="95dp"
+    android:background="@drawable/button"
+    android:elevation="8dp"
+
+    android:text="Our Vision"
+    android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/E1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="216dp"
+        android:textAlignment="center"
+        android:text="We are mainly focused on standardising and enhancing the lives of Chittoor people to the very next comfort level.The Innovation in the technology is nowhere enriching the lives in Chittoor.We are dedicated to bridge that gap."
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
+

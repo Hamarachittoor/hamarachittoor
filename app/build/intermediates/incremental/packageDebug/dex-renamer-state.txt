@@ -1,0 +1,7 @@
+#Fri Jun 02 13:48:00 IST 2017
+base.0=D\:\\1-06\\Hamara_Chittoor_31.5\\MVGhamarachitoor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c92fc459fc0129dd8fc7fd680e464540915841a9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\1-06\\Hamara_Chittoor_31.5\\MVGhamarachitoor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67cb9d69cd462227a9954355100f0ebec8f2dd5e\\classes.dex
+base.1=D\:\\1-06\\Hamara_Chittoor_31.5\\MVGhamarachitoor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67cb9d69cd462227a9954355100f0ebec8f2dd5e
+file.0=D\:\\1-06\\Hamara_Chittoor_31.5\\MVGhamarachitoor\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c92fc459fc0129dd8fc7fd680e464540915841a9\\classes.dex

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_2a66febe5c1dc29da26aa2318734ccb4f9ff6ada\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_a29c46ab3deaefb565a01897d0aa12c7fe4133f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_1bc178cc89bae7ed036ce55346df210767a7db71\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\libs\mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\pre-dexed\debug\mail_a29c46ab3deaefb565a01897d0aa12c7fe4133f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\libs\additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\pre-dexed\debug\additionnal_1bc178cc89bae7ed036ce55346df210767a7db71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5db85e38665c46334073a387fc28e83c4a0a34e4">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c92fc459fc0129dd8fc7fd680e464540915841a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_67cb9d69cd462227a9954355100f0ebec8f2dd5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\libs\activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\1-06\Hamara_Chittoor_31.5\MVGhamarachitoor\app\build\intermediates\pre-dexed\debug\activation_2a66febe5c1dc29da26aa2318734ccb4f9ff6ada.jar" />
+    </item>
+
+</items>

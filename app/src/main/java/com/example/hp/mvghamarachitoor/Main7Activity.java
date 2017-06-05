@@ -4,30 +4,40 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
+import android.widget.Spinner;
 
 public class Main7Activity extends AppCompatActivity {
-    AutoCompleteTextView C1;
+    Spinner spinner;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main7);
-        String [] text= {"B.V Reddy Colony",
-                "Darga" ,
+        spinner=(Spinner)findViewById(R.id.C1);
+        String[] text = {"Select", "B.V Reddy Colony",
+                "Darga",
                 "Durga Nagar Colony",
-                "Ganganapalli" ,
+                "Ganganapalli",
                 "Greamspet",
-                "Goolingspet" ,
-                "Industrial Estate" ,
+                "Goolingspet",
+                "Industrial Estate",
+                "Iruvaram",
                 "Janakarapalli",
                 "Kajoor",
-                "Kattamanchi" ,
-                "Kongareddy Palli" ,
-                "Mittoor" ,
-                "Ram Nagar Colony" ,
-                "Santhapet"};
-        C1=(AutoCompleteTextView)findViewById(R.id.C1);
-        ArrayAdapter adapter = new ArrayAdapter(this,android.R.layout.simple_list_item_1,text);
-        C1.setAdapter(adapter);
+                "Kattamanchi",
+                "Kongareddy Palli",
+                "Lakshmi Nagar Colony",
+                "Mittoor",
+                "Murukambattu",
+                "Prasanth Nagar",
+                "Ram Nagar Colony",
+                "Sai Nagar Colony",
+                "SBI Colony",
+                "Santhapet"
+
+
+        };
+        ArrayAdapter adapter = new ArrayAdapter(this,android.R.layout.simple_spinner_dropdown_item,text);
+        spinner.setAdapter(adapter);
 
     }
 }
